@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Excluir todos os e-mails em loop no Gmail (sem recarregar)
+// @name         Excluir todos os e-mails em loop no Gmail 
 // @namespace    http://tampermonkey.net/
 // @version      3.3
 // @description  Seleciona e exclui continuamente até zerar os e-mails, sem recarregar a página
